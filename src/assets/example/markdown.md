@@ -1,4 +1,28 @@
+# 使用必读
+
+- 使用方式： 基于 Markdown 的在线转换器，粘贴你的 Markdown 格式文章转换为微信公众号可以使用的文章。[点击学习 Markdown 语法](https://markdown.com.cn/)
+
+- 关于图片上传： 当前工具没有接任何 OSS，使用自己的图片链接替换，如果后面财有余力会加。
+
+- 关于工具： 工具是由站长个人收入，提供包括域名和服务器。[站长个人网站](http://javapub.net.cn/)
+
+- 关于维护： 服务会长期维护，但 如遇不可抗力因素，可能会迁移站点。公告通知点：[点击了解](https://mp.weixin.qq.com/s/4ZiE9rvGWJOCFLMXTiM1Ng)
+
+
+
+> **倡导:** 文明使用，文明使用，文明使用。开源不易，共同维护。
+
+
+
+
+---
+
+
+
 # 示例文章：Google 搜索的即时自动补全功能究竟是如何“工作”的？
+
+
+
 
 > Google 搜索**自动补全功能**的强大，相信不少朋友都能感受到，它帮助我们更快地“补全”我们所要输入的搜索关键字。那么，它怎么知道我们要输入什么内容？它又是如何工作的？在这篇文章里，我们一起来看看。
 
@@ -95,15 +119,26 @@ Google 拥有专门设计的系统，可以自动捕获不适当的预测结果�
 
 #### 推荐阅读
 
-- [阿里又一个 20k+ stars 开源项目诞生，恭喜 fastjson！](https://mp.weixin.qq.com/s/RNKDCK2KoyeuMeEs6GUrow)
-- [刷掉 90% 候选人的互联网大厂海量数据面试题（附题解 + 方法总结）](https://mp.weixin.qq.com/s/rjGqxUvrEqJNlo09GrT1Dw)
-- [好用！期待已久的文本块功能究竟如何在 Java 13 中发挥作用？](https://mp.weixin.qq.com/s/kalGv5T8AZGxTnLHr2wDsA)
-- [2019 GitHub 开源贡献排行榜新鲜出炉！微软谷歌领头，阿里跻身前 12！](https://mp.weixin.qq.com/s/_q812aGD1b9QvZ2WFI0Qgw)
+
+
+- [突击面试题《最少必要面试题》](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNDUyOTY0Nw==&action=getalbum&album_id=2344061143381508097&scene=126&uin=&key=&devicetype=iMac+MacBookPro18%2C3+OSX+OSX+14.5+build(23F79)&version=13080710&lang=zh_CN&nettype=WIFI&ascene=0&fontScale=100)
+
+- [《用户中心》项目组](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNDUyOTY0Nw==&action=getalbum&album_id=3513732912782671873&scene=126&uin=&key=&devicetype=iMac+MacBookPro18%2C3+OSX+OSX+14.5+build(23F79)&version=13080710&lang=zh_CN&nettype=WIFI&ascene=78&fontScale=100)
+
+- [拿下面试官系列《面试 1v1》](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNDUyOTY0Nw==&action=getalbum&album_id=2886192642542583814&scene=126&uin=&key=&devicetype=iMac+MacBookPro18%2C3+OSX+OSX+14.5+build(23F79)&version=13080710&lang=zh_CN&nettype=WIFI&ascene=78&fontScale=100)
+
+- [互联网那些事...](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNDUyOTY0Nw==&action=getalbum&album_id=2718602335417040899&scene=173&subscene=227&sessionid=1722493577&enterid=1722493600&from_msgid=2247496321&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+
+
 
 ---
 
-欢迎关注我的公众号“**Doocs**”，原创技术文章第一时间推送。
+
+
+欢迎关注我的公众号“**JavaPub**”，原创技术文章第一时间推送。
 
 <center>
-    <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/md/images/1648303220922-7e14aefa-816e-44c1-8604-ade709ca1c69.png" style="width: 100px;">
+    <img src="https://javapub-common-oss.oss-cn-beijing.aliyuncs.com/javapub/2024%2F06%2F15%2F20240615-091808.jpeg" style="width: 100px;">
 </center>
+
+
